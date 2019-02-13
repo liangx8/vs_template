@@ -12,7 +12,7 @@
                 "main.go"
             ],
             "options": {
-                "cwd": "${workspaceFolder}/src",
+                "cwd": "${workspaceFolder}",
                 "env": {
                     "GOROOT": "/home/arm/usr/go",
                     "GOPATH": "/home/arm/usr/gopath"
@@ -21,7 +21,8 @@
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "problemMatcher":[]
         }
     ]
 }

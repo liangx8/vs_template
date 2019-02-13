@@ -6,6 +6,7 @@
         "gocode": "/home/arm/usr/gopath/bin/gocode",
         "go": "/home/arm/usr/go/bin/go",
         "gopkgs": "/home/arm/usr/gopath/bin/gopkgs",
+        "gorename":"/home/arm/usr/gopath/bin/gorename",
     },
     "go.inferGopath": false
 }
