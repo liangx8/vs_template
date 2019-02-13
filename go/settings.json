@@ -1,0 +1,11 @@
+{
+    "go.formatTool": "gofmt",
+    "go.goroot": "/home/arm/usr/go",
+    "go.gopath": "/home/arm/usr/gopath",
+    "go.alternateTools": {
+        "gocode": "/home/arm/usr/gopath/bin/gocode",
+        "go": "/home/arm/usr/go/bin/go",
+        "gopkgs": "/home/arm/usr/gopath/bin/gopkgs",
+    },
+    "go.inferGopath": false
+}
